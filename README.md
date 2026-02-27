@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Art3ic 👋
 
-<!--
-**Art3ic/Art3ic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year Data Science student at IIT Madras
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Programming: Python
+- Data Analysis: Pandas, NumPy, Matplotlib
+- Databases: SQL
+- Tools: Jupyter Notebook, Git, GitHub
+- Currently learning: Machine Learning, Data Visualization
+
+---
+
+## 📫 Contact
+- Email: (will be added later)
+- LinkedIn: (will be added later)
+
+⭐ Check out my repositories to see my progress!
