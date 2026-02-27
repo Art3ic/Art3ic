@@ -1,6 +1,6 @@
 # Hi, I'm Art3ic 👋
 
-🎓 Second-year Data Science student at IIT Madras
+🎓 Second-year Data Science student.
 
 ---
 
